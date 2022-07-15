@@ -1,0 +1,14 @@
+body {
+    color: #73879C;
+    background-color: rgb(185, 179, 185);
+    font-family: "Helvetica Neue", Roboto, Arial, "Droid Sans", sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 1.471;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+}
+
+#Intro {}
